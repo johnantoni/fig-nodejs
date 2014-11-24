@@ -1,0 +1,7 @@
+web:
+  build: .
+  command: node /src/app.js
+  volumes:
+    - .:/src
+  ports:
+    - "8443:8443"
