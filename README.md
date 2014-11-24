@@ -3,5 +3,6 @@ fig-nodejs
 
 example working fig / nodejs setup
 
-run
+run:
+
     fig up
